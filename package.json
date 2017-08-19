@@ -15,9 +15,14 @@
     "type": "git",
     "url": "git+https://github.com/GoogleChrome/push-notifications.git"
   },
-  "license": "Apache 2",
+  "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/GoogleChrome/push-notifications/issues"
   },
-  "homepage": "https://github.com/GoogleChrome/push-notifications#readme"
+  "homepage": "https://github.com/GoogleChrome/push-notifications#readme",
+  "main": "index.js",
+  "author": "",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
